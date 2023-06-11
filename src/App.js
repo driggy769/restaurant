@@ -3,6 +3,7 @@ import React from 'react';
 import { AboutUs, Chef, FindUs, Footer, Gallery, Header, Intro, Laurels, SpecialMenu } from './container';
 import { Navbar } from './components';
 import './App.css';
+import BackToTop from './components/BackToTop/BackToTop';
 
 const App = () => (
   <div>
@@ -16,6 +17,7 @@ const App = () => (
     <Gallery />
     <FindUs />
     <Footer />
+    <BackToTop />
   </div>
 );
 
