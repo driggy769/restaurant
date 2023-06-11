@@ -52,7 +52,7 @@ const cocktails = [
   {
     title: 'The Awesome',
     price: '£23.00',
-    tags: '1x 6ox beef patty, 1x souther fried crispy chicken with red onion, gherkin, ketchup and American-style relish on a brioche bun',
+    tags: '1x 6oz beef patty, 1x souther fried crispy chicken with red onion, gherkin, ketchup and American-style relish on a brioche bun',
   },
 ];
 
